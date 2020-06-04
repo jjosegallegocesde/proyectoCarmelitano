@@ -1,0 +1,15 @@
+.titulopagina1 {
+    font-weight: bold;
+    color: green;
+}
+
+.parrafopagina1 {
+    font-family: "Arial";
+    color: green;
+    font-style: italic;
+    text-align: left;
+}
+
+h3 {
+    color: green;
+}
